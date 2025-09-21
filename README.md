@@ -72,22 +72,6 @@ Open http://localhost:5173 (or the address shown in your terminal) to view it in
 
 ## 📁 Project Structure
 Here is a brief overview of the project's file structure:
+<img width="1001" height="522" alt="image" src="https://github.com/user-attachments/assets/1dacafb1-d062-4171-9548-2ece9b49c30f" />
 
-/
-├── public/                  # Static assets
-├── src/
-│   ├── assets/              # Images and icons
-│   ├── components/
-│   │   ├── main/            # Main chat window component
-│   │   └── sidebar/         # Sidebar component
-│   ├── config/
-│   │   └── Gemini.js        # Gemini API configuration and setup
-│   ├── context/
-│   │   └── Context.jsx      # React Context for state management
-│   ├── App.jsx              # Main App component
-│   ├── main.jsx             # Entry point of the application
-│   └── index.css            # Global styles
-├── .env                     # (You create this) For environment variables (API Key)
-├── package.json
-└── README.md
 This README should give anyone who finds your project a clear understanding of what it is, what it does, and how to use it.
