@@ -42,7 +42,7 @@ Clone the repository:
 
 Bash
 
-git clone https://github.com/your-username/your-repository-name.git
+git clone [https://github.com/your-username/your-repository-name.git](https://github.com/Iamlordprince/gemini)
 cd your-repository-name
 Install NPM packages:
 
