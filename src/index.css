@@ -19,3 +19,4 @@
     opacity: 1;
   }
 }
+/* REMOVED: There was an extra closing brace '}' here that was causing a syntax error. */
